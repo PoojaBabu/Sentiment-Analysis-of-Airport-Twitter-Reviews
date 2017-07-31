@@ -1,0 +1,1 @@
+emoMergeDF<- merge(emoNameScore, emoticons_data, by.x = "Emo_def", by.y = "Description")
